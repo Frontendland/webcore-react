@@ -1,0 +1,5 @@
+@import 'webcoreui/config';
+
+p {
+    @include typography(center);
+}
